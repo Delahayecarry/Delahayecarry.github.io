@@ -1,0 +1,13 @@
+@font-face{
+  font-family: 'siyuan_reg';
+  font-display: swap;
+  src: url('../css/font/SourceHanSerifCN-Regular.otf') format("truetype");
+}
+@font-face{
+  font-family: 'siyuan_bold';
+  font-display: swap;
+  src: url('./font/SourceHanSerifCN-SemiBold.otf') format("truetype");
+}
+body {
+  font-family: 'siyuan_reg','siyuan_bold';
+}
