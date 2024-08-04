@@ -1,13 +1,48 @@
 @font-face{
   font-family: 'siyuan_reg';
   font-display: swap;
-  src: url('../css/font/SourceHanSerifCN-Regular.otf') format("truetype");
+  src: url('../font/SourceHanSerifCN-Regular.otf') format("truetype");
 }
+
 @font-face{
-  font-family: 'siyuan_bold';
+  font-family: 'siyuan_semibold';
   font-display: swap;
   src: url('./font/SourceHanSerifCN-SemiBold.otf') format("truetype");
 }
+
+@font-face{
+  font-family: 'siyuan_extralight';
+  font-display: swap;
+  src: url('./font/SourceHanSerifCN-ExtraLight.otf') format("truetype");
+}
+
+@font-face{
+  font-family: 'siyuan_heavy';
+  font-display: swap;
+  src: url('./font/SourceHanSerifCN-Heavy.otf') format("truetype");
+}
+
+@font-face{
+  font-family: 'siyuan_Light';
+  font-display: swap;
+  src: url('./font/SourceHanSerifCN-Light.otf') format("truetype");
+}
+
+
+@font-face{
+  font-family: 'siyuan_Medium';
+  font-display: swap;
+  src: url('./font/SourceHanSerifCN-Medium.otf') format("truetype");
+}
+
+@font-face{
+  font-family: 'siyuan_bold';
+  font-display: swap;
+  src: url('./font/SourceHanSerifCN-Bold.otf') format("truetype");
+}
+
+
+
 body {
-  font-family: 'siyuan_reg','siyuan_bold';
+  font-family: 'siyuan_reg','siyuan_bold','siyuan_heavy','siyuan_Light','siyuan_Medium','siyuan_semibold','siyuan_extralight';
 }
