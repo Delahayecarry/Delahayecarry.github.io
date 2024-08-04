@@ -1,7 +1,7 @@
 @font-face{
   font-family: 'siyuan_reg';
   font-display: swap;
-  src: url('../font/SourceHanSerifCN-Regular.otf') format("truetype");
+  src: url('./font/SourceHanSerifCN-Regular.otf') format("truetype");
 }
 
 @font-face{
