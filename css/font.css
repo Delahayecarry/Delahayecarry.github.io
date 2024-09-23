@@ -7,38 +7,38 @@
 @font-face{
   font-family: 'siyuan_semibold';
   font-display: swap;
-  src: url('./font/SourceHanSerifCN-SemiBold.otf') format("truetype");
+  src: url('./font/PingFang-Regular.ttf') format("truetype");
 }
 
 @font-face{
   font-family: 'siyuan_extralight';
   font-display: swap;
-  src: url('./font/SourceHanSerifCN-ExtraLight.otf') format("truetype");
+  src: url('./font/PingFang-ExtraLight.ttf') format("truetype");
 }
 
 @font-face{
   font-family: 'siyuan_heavy';
   font-display: swap;
-  src: url('./font/SourceHanSerifCN-Heavy.otf') format("truetype");
+  src: url('./font/PingFang-Heavy.ttf') format("truetype");
 }
 
 @font-face{
   font-family: 'siyuan_Light';
   font-display: swap;
-  src: url('./font/SourceHanSerifCN-Light.otf') format("truetype");
+  src: url('./font/PingFang-Light.ttf') format("truetype");
 }
 
 
 @font-face{
   font-family: 'siyuan_Medium';
   font-display: swap;
-  src: url('./font/SourceHanSerifCN-Medium.otf') format("truetype");
+  src: url('./font/PingFang-Medium.ttf') format("truetype");
 }
 
 @font-face{
   font-family: 'siyuan_bold';
   font-display: swap;
-  src: url('./font/SourceHanSerifCN-Bold.otf') format("truetype");
+  src: url('./font/PingFang-Bold.ttf') format("truetype");
 }
 
 
